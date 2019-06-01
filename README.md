@@ -1,2 +1,0 @@
-# bookstore
-Created with CodeSandbox
